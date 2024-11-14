@@ -7,8 +7,7 @@
 
 ---
 
-## 💼 Projects
-- [**My Portfolio**](https://amhyrns.github.io)
+- [**Temp Site**](https://amhyrns.github.io)
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/amandahyrns)
