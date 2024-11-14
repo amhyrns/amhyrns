@@ -8,10 +8,7 @@
 ---
 
 ## 💼 Projects
-- [**My Portfolio**](https://amhyrns.github.io) - Coming soon...
-
-## 🛠️ Contributions
-- Coming soon...
+- [**My Portfolio**](https://amhyrns.github.io)
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/amandahyrns)
