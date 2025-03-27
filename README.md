@@ -7,8 +7,6 @@
 
 <img src="https://moods.imood.com/display/uname-ofbigbelief/bg-#FFF5E/trans-1/imood.gif" alt="The current mood of ofbigbelief at www.imood.com" border="3"></a>
 
-**Learning front-end.** </br>
-
 ---
 
 ## 💼 Portfolio
