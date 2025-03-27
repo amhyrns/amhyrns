@@ -7,7 +7,7 @@
 
 <img src="https://moods.imood.com/display/uname-ofbigbelief/bg-#FFF5E/trans-1/imood.gif" alt="The current mood of ofbigbelief at www.imood.com" border="3"></a>
 
-#beenonlinesincedialup #allthingstech #allthingsmusic #allthingsmedia #allthingsertainment #allthingsdesign
+#beenonlinesincedialup #tech #business #music #audio #multimedia #entertainment #design #style #branding #gaming
 
 ---
 
